@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "653683248147",
+    "project_id": "contactllist",
+    "storage_bucket": "contactllist.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653683248147:android:c457848fbda6690a2743e6",
+        "android_client_info": {
+          "package_name": "com.cotact.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653683248147-pnpocr9gb85kmp14gqfrsvvhvf80qnp1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiJ2ypHv27tLId2i15vab9YaRF4Xma9K8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653683248147-pnpocr9gb85kmp14gqfrsvvhvf80qnp1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
